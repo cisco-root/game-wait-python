@@ -1,4 +1,4 @@
-
+![Platform Android](https://img.shields.io/badge/Platform-Android-lightgrey.svg)
 ### this program is not for Linux
 ### cooming soon to linux
 
