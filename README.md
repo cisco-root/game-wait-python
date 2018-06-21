@@ -1,4 +1,4 @@
-![Build: Passing]
+![platrorm windows](https://img.shields.io/badge/windows.svg)
 ### this program is not for Linux
 ### cooming soon to linux
 
