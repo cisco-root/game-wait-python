@@ -1,4 +1,4 @@
-![platrorm windows](https://img.shields.io/badge/windows.svg)
+![Platform windows](https://img.shields.io/badge/Platform-Android-lightgrey.svg)
 ### this program is not for Linux
 ### cooming soon to linux
 
