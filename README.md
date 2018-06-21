@@ -1,30 +1,13 @@
-#by cisco root
-
-import random
-
-Plangs = ("python", "php", "javascript", "c", "perl", "c++", "java", "ruby", "c#", "visual basic", "fortran", "parsa")
-
-answer = random.choice(Plangs)
-
-correct = answer
-
-rumble = ""
-
-while answer:
-    position = random.randrange(len(answer))
-    rumble += answer[position]
-    answer = answer[:position] + answer[(position + 1):]
-
-print("The Word Is:", rumble)
-
-guess = input("Guess This Programming Language:")
-guess = guess.lower()
-
-while (guess != correct) or (guess == ""):
-    print("That is not the correct answer")
-    guess = input("Guess This Programming Language:")
-    guess = guess.lower()
-	
-if guess == correct:
-    print("Congratulation You Win!")
-    input("\n\n Press enter to exit")
+for windows 
+1-install this file https://github.com/cisco-root/game-wait-python/archive/master.zip and extarct here
+2-move file game-wait-python-master to Desktop
+3-open cmd 
+4-type cd Desktop
+5-type cd game-wait-python-master
+6-type game.py
+-----------------------------
+for linux 
+1-type cd Desktop 
+2-type git clone https://github.com/cisco-root/game-wait-python.git or download file zip 
+3-type cd game-wait-python
+4-type ./game.py
