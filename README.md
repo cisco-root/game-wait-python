@@ -15,12 +15,12 @@
 - open cmd
 
 
-- type ### cd Desktop
+- type cd Desktop
 
 
-- type ### cd game-wait-python
+- type cd game-wait-python
 
 
-- type ### game.py
+- type game.py
 
 
