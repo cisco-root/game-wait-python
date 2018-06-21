@@ -5,9 +5,6 @@ for windows
 4-type cd Desktop
 5-type cd game-wait-python-master
 6-type game.py
------------------------------
-for linux 
-1-type cd Desktop 
-2-type git clone https://github.com/cisco-root/game-wait-python.git or download file zip 
-3-type cd game-wait-python
-4-type ./game.py
+-----------------
+this app not linux
+for linux cooming
