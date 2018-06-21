@@ -1,10 +1,10 @@
 for windows 
-1-install this file https://github.com/cisco-root/game-wait-python/archive/master.zip and extarct here
-2-move file game-wait-python-master to Desktop
-3-open cmd 
-4-type cd Desktop
-5-type cd game-wait-python-master
-6-type game.py
+-install this file https://github.com/cisco-root/game-wait-python/archive/master.zip and extarct here
+-move file game-wait-python-master to Desktop
+-open cmd 
+-type cd Desktop
+-type cd game-wait-python-master
+-type game.py
 -----------------
-this app not linux
-for linux cooming
+This program is not for Linux
+coming soon to linux
