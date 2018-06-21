@@ -1,9 +1,9 @@
 
-### his program is not for Linux
-### ming soon to linux
+### this program is not for Linux
+### cooming soon to linux
 
 
-# for windows
+# for install 
 
 
 - install https://github.com/cisco-root/game-wait-python/archive/master.zip and extarct here
