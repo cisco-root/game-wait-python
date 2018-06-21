@@ -1,4 +1,4 @@
-![Platform Android](https://img.shields.io/badge/Platform-windows-lightgrey.svg)
+![Build: Passing]
 ### this program is not for Linux
 ### cooming soon to linux
 
