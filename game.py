@@ -5,7 +5,7 @@
 
 import random
 
-Plangs = ("python", "php", "javascript", "c", "perl", "c++", "java", "ruby", "c#", "visual basic", "fortran", "parsa")
+Plangs = ("python", "php", "javascript", "c", "perl", "c++", "java", "ruby", "c#", "visual basic", "fortran")
 
 answer = random.choice(Plangs)
 
